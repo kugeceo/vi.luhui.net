@@ -1,0 +1,1 @@
+﻿positionForPages[13]={page:13,positions:[{word:"标  识",left:0.100451,top:0.112072,width:0.133403,height:0.060242},{word:"二 标识部分",left:0.265903,top:0.395944,width:0.486041,height:0.110889},{word:" . ",left:0.349236,top:0.369278,width:0.069333,height:0.151444}]};

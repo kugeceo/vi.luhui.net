@@ -1,0 +1,1 @@
+﻿positionForPages[9]={page:9,positions:[{word:"一 理念部分",left:0.234306,top:0.395944,width:0.486041,height:0.110889},{word:" . ",left:0.317639,top:0.369278,width:0.069333,height:0.151444},{word:"理  念",left:0.100451,top:0.112072,width:0.133403,height:0.060242}]};

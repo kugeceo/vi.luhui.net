@@ -1,0 +1,1 @@
+﻿positionForPages[14]={page:14,positions:[{word:"标识设计前相关资料",left:0.116250,top:0.122668,width:0.349931,height:0.052536}]};

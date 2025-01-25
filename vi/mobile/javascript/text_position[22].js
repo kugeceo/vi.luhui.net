@@ -1,0 +1,1 @@
+﻿positionForPages[22]={page:22,positions:[{word:"2014.4.15",left:0.454792,top:0.573604,width:0.200000,height:0.089666},{word:"谢 谢",left:0.431181,top:0.425528,width:0.212916,height:0.124444},{word:"  ",left:0.514514,top:0.409417,width:0.046208,height:0.151444}]};

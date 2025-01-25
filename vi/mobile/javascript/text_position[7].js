@@ -1,0 +1,1 @@
+﻿positionForPages[7]={page:7,positions:[{word:"创意设计稿",left:0.492118,top:0.510863,width:0.194375,height:0.051707},{word:"              ",left:0.492118,top:0.565413,width:0.087500,height:0.044833}]};

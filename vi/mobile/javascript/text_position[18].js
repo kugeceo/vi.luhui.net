@@ -1,0 +1,1 @@
+﻿positionForPages[18]={page:18,positions:[{word:"方案4",left:0.893333,top:0.085467,width:0.069480,height:0.037686}]};
